@@ -1,6 +1,14 @@
 {
+  "name": "money-saver-pro",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "react": "^18.x.x",
-    "react-dom": "^18.x.x"
+    "react-dom": "^18.x.x",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   }
 }
